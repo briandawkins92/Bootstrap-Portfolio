@@ -52,4 +52,68 @@
     padding-left:20px;
     padding-right:20px;
 }
+.img{
+    padding:5px;
+}
+
+.text1{
+    background-color:#4aaaa5;
+    color: white;
+    width:190px;
+    text-align:center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position:absolute;
+    top:225px;
+    left:45px;
+    padding-top:5px;
+    padding-bottom:5px;
+}
+.text2{
+    background-color:#4aaaa5;
+    color: white;
+    width:190px;
+    text-align:center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position:absolute;
+    top:425px;
+    left:45px;
+    padding-top:5px;
+    padding-bottom:5px;
+}
+.text3{
+    background-color:#4aaaa5;
+    color: white;
+    width:190px;
+    text-align:center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position:absolute;
+    top:625px;
+    left:45px;
+    padding-top:5px;
+    padding-bottom:5px;
+}
+.text4{
+    background-color:#4aaaa5;
+    color: white;
+    width:190px;
+    text-align:center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position:absolute;
+    top:825px;
+    left:45px;
+    padding-top:5px;
+    padding-bottom:5px;
+}
+.text5{
+    background-color:#4aaaa5;
+    color: white;
+    width:190px;
+    text-align:center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position:absolute;
+    top:1025px;
+    left:45px;
+    padding-top:5px;
+    padding-bottom:5px;
+}
 /*End CSS*/

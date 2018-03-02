@@ -9,10 +9,13 @@
     padding: 20px;
     width: 325px;
 }
+
 .nav{
     font-family:Georgia, 'Times New Roman', Times, serif;
-    align-content:right;
+    float:right;
+    margin-top:20px;
 }
+
 .about{
     color:#4aaaa5;
     border-bottom-style: solid;
@@ -20,6 +23,13 @@
     border-bottom-color:lightgrey;
     font-family:Georgia, 'Times New Roman', Times, serif;
     text-align:left;
+}
+.card-title{
+    color:#4aaaa5;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    border-bottom-style: solid;
+    border-bottom-width:5px;
+    border-bottom-color:lightgrey;
 }
 #footer{
     background-color:#666666;

@@ -64,7 +64,7 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
     position:absolute;
     top:225px;
-    left:45px;
+    left:30px;
     padding-top:5px;
     padding-bottom:5px;
 }
@@ -75,8 +75,8 @@
     text-align:center;
     font-family: Georgia, 'Times New Roman', Times, serif;
     position:absolute;
-    top:425px;
-    left:45px;
+    top:225px;
+    left:230px;
     padding-top:5px;
     padding-bottom:5px;
 }
@@ -87,8 +87,8 @@
     text-align:center;
     font-family: Georgia, 'Times New Roman', Times, serif;
     position:absolute;
-    top:625px;
-    left:45px;
+    top:225px;
+    left:430px;
     padding-top:5px;
     padding-bottom:5px;
 }
@@ -99,8 +99,8 @@
     text-align:center;
     font-family: Georgia, 'Times New Roman', Times, serif;
     position:absolute;
-    top:825px;
-    left:45px;
+    top:425px;
+    left:30px;
     padding-top:5px;
     padding-bottom:5px;
 }
@@ -111,8 +111,8 @@
     text-align:center;
     font-family: Georgia, 'Times New Roman', Times, serif;
     position:absolute;
-    top:1025px;
-    left:45px;
+    top:425px;
+    left:230px;
     padding-top:5px;
     padding-bottom:5px;
 }
